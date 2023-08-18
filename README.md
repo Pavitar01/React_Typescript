@@ -36,7 +36,7 @@ The TypeScript compiler can catch common mistakes and type mismatches during dev
 <p>In Terminal </p>
 
  ``` bash 
-npx create-react-app [app_name ] --template typescript
+npx create-react-app my-app --template typescript
 ```
 
 # Pre-requisites
@@ -178,7 +178,8 @@ pages:89
 
 
 # ReactJs With TypeScript
-# App.js
+
+<h3> App.js</h3>
 
 ``` bash
 import React, { useState } from 'react';
@@ -203,7 +204,8 @@ export default App;
 
 
 ```
-# Counter.js
+
+<h3>Counter.js</h3>
 
 ``` bash
 import React from 'react';
