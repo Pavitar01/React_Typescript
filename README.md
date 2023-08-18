@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="https://i.ytimg.com/vi/1jMJDbq7ZX4/maxresdefault.jpg" width={200}  class="image"/>
+<img src="https://i.ytimg.com/vi/1jMJDbq7ZX4/maxresdefault.jpg" width={100}  class="image"/>
 
 
 # Getting Started React With Typescript
@@ -179,7 +179,7 @@ pages:89
 
 # ReactJs With TypeScript
 
-<h3> App.js</h3>
+<h3> App.tsx</h3>
 
 ``` bash
 import React, { useState } from 'react';
@@ -205,7 +205,7 @@ export default App;
 
 ```
 
-<h3>Counter.js</h3>
+<h3>Counter.tsx</h3>
 
 ``` bash
 import React from 'react';
