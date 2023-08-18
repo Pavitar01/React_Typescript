@@ -8,7 +8,7 @@
 <img src="https://th.bing.com/th/id/OIP.tIf1yBi6P5ij1rQkbWe8_gAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SrVhPMALde_d9YaNSkQ0hwHaDH?pid=ImgDet&w=1000&h=420&rs=1)" width={200}  class="image"/>
 
 
-# Getting Started 
+# Getting Started React WIth Typescript
 ``` bash
 TypeScript is JavaScript with syntax for Types
 ```
@@ -27,7 +27,9 @@ With type annotations, code becomes more self-documenting and easier to understa
 The TypeScript compiler can catch common mistakes and type mismatches during development.
 ```
 
-
+<h1>
+    Setup
+</h1>
 
 </body>
 </html>
