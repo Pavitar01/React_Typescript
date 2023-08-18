@@ -9,5 +9,8 @@
 
 
 # Getting Started
+``` bash
+TypeScript is JavaScript with syntax for Types
+```
 </body>
 </html>
