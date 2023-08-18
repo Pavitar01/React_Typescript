@@ -8,7 +8,7 @@
 <img src="https://th.bing.com/th/id/OIP.b2Z9JpXGA7-nhe6Xm371AwHaEK?pid=ImgDet&rs=1" width={200}  class="image"/>
 
 
-# Getting Started
+# Getting Started React With TyepSCript
 ``` bash
 TypeScript is JavaScript with syntax for Types
 ```
