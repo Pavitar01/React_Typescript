@@ -14,15 +14,18 @@ TypeScript is JavaScript with syntax for Types
 ```
 # Why
 <h5> 1. Type Safety</h5>
+
 ``` bash 
 TypeScript introduces static typing, allowing developers to define types for variables, function parameters, and return values.
 ```
 <h5>2. Code Quality </h5>
+
 ``` bash
 With type annotations, code becomes more self-documenting and easier to understand.
 ```
 
 <h5>3. Early Error Detection</h5>
+
 ``` bash
 The TypeScript compiler can catch common mistakes and type mismatches during development.
 ```
