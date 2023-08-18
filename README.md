@@ -8,7 +8,7 @@
 <img src="https://th.bing.com/th/id/OIP.tIf1yBi6P5ij1rQkbWe8_gAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SrVhPMALde_d9YaNSkQ0hwHaDH?pid=ImgDet&w=1000&h=420&rs=1)" width={200}  class="image"/>
 
 
-# Getting Started React WIth Typescript
+# Getting Started React With Typescript
 ``` bash
 TypeScript is JavaScript with syntax for Types
 ```
@@ -39,7 +39,7 @@ The TypeScript compiler can catch common mistakes and type mismatches during dev
 npx create-react-app [app_name ] --template typescript
 ```
 
-# PreRequisites
+# Pre-requisites
 
 <h2>Type Alias </h2>
 
@@ -174,6 +174,61 @@ author:"nova",
 price:123,
 pages:89
 }
+```
+
+
+# ReactJs With TypeScript
+# App.js
+
+``` bash
+import React, { useState } from 'react';
+import Counter from './Counter';
+
+const App: React.FC = () => {
+  const [count, setCount] = useState<number>(0);
+
+  const increment = () => {
+    setCount(count + 1);
+  };
+
+  return (
+    <div>
+      <h1>React Counter Example</h1>
+      <Counter count={count} onIncrement={increment} />
+    </div>
+  );
+};
+
+export default App;
+
+
+```
+# Counter.js
+
+``` bash
+import React from 'react';
+
+interface CounterProps {
+  count: number;
+  onIncrement: () => void;
+}
+// type CounterProps= {
+//   count: number;
+//   onIncrement: () => void;
+// }
+
+
+const Counter: React.FC<CounterProps> = ({ count, onIncrement }) => {
+  return (
+    <div>
+      <p>Count: {count}</p>
+      <button onClick={onIncrement}>Increment</button>
+    </div>
+  );
+};
+
+export default Counter;
+
 ```
 
 
