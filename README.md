@@ -24,11 +24,7 @@ With type annotations, code becomes more self-documenting and easier to understa
 
 # 3. Early Error Detection: 
 ``` bash
-
 The TypeScript compiler can catch common mistakes and type mismatches during development.
-
-4.Modern JavaScript Features: TypeScript supports the latest ECMAScript features while providing compatibility with older browsers.
-5.Maintained by Microsoft: TypeScript is developed and maintained by Microsoft, which means it has a solid backing and is likely to continue receiving updates and improvements.
 ```
 # What are key Features of TypeScript
 ``` bash
