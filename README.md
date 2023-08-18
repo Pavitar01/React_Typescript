@@ -22,7 +22,7 @@ TypeScript introduces static typing, allowing developers to define types for var
 With type annotations, code becomes more self-documenting and easier to understand.
 ```
 
-#3. Early Error Detection: 
+# 3. Early Error Detection: 
 ``` bash
 
 The TypeScript compiler can catch common mistakes and type mismatches during development.
