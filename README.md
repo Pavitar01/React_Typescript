@@ -34,6 +34,7 @@ The TypeScript compiler can catch common mistakes and type mismatches during dev
     Setup
 </h1>
 <p>In Terminal </p>
+
  ``` bash 
 npx create-react-app [app_name ] --template typescript
 ```
