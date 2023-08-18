@@ -12,11 +12,13 @@
 ``` bash
 TypeScript is JavaScript with syntax for Types
 ```
-
+# Why
+``` bash
 
 # What are key Features of TypeScript
 ``` bash
-Static Typing: TypeScript allows you to specify types for variables, function parameters, and return values. This helps catch type-related errors at compile time rather than runtime. Types also provide better code documentation and understanding.
+1. Static Typing: TypeScript allows you to specify types for variables, function parameters, and return values. This helps catch type-related errors at compile time rather than runtime. Types also provide better code documentation and understanding.
+2. Compile Time Checks: TypeScript code is transpiled into JavaScript before execution. During this process, the TypeScript compiler performs static type checking and other validations, helping to catch errors and issues before the code is run.
 
 ```
 
