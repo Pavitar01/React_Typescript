@@ -5,7 +5,7 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
 </head>
 <body>
-<img src="[https://th.bing.com/th/id/OIP.tIf1yBi6P5ij1rQkbWe8_gAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SrVhPMALde_d9YaNSkQ0hwHaDH?pid=ImgDet&w=1000&h=420&rs=1)" width={200}  class="image"/>
+<img src="https://th.bing.com/th/id/OIP.tIf1yBi6P5ij1rQkbWe8_gAAAA?pid=ImgDet&rs=1](https://th.bing.com/th/id/OIP.SrVhPMALde_d9YaNSkQ0hwHaDH?pid=ImgDet&w=1000&h=420&rs=1)" width={200}  class="image"/>
 
 
 # Getting Started 
