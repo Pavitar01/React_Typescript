@@ -28,7 +28,6 @@ The TypeScript compiler can catch common mistakes and type mismatches during dev
 ```
 
 
-```
 
 </body>
 </html>
