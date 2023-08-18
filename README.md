@@ -22,7 +22,11 @@ TypeScript introduces static typing, allowing developers to define types for var
 With type annotations, code becomes more self-documenting and easier to understand.
 ```
 
-3.Early Error Detection: The TypeScript compiler can catch common mistakes and type mismatches during development.
+#3. Early Error Detection: 
+``` bash
+
+The TypeScript compiler can catch common mistakes and type mismatches during development.
+
 4.Modern JavaScript Features: TypeScript supports the latest ECMAScript features while providing compatibility with older browsers.
 5.Maintained by Microsoft: TypeScript is developed and maintained by Microsoft, which means it has a solid backing and is likely to continue receiving updates and improvements.
 ```
