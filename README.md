@@ -39,5 +39,13 @@ The TypeScript compiler can catch common mistakes and type mismatches during dev
 npx create-react-app [app_name ] --template typescript
 ```
 
+# PreRequisites
+
+<h2>Type Alias </h2>
+
+``` bash
+A type alias is a shorthand name for an existing data type in programming.
+```
+
 </body>
 </html>
