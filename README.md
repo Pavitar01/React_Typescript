@@ -46,6 +46,11 @@ npx create-react-app [app_name ] --template typescript
 ``` bash
 A type alias is a shorthand name for an existing data type in programming.
 ```
+<h2>Templates </h2>
+
+``` bash
+A type alias is a shorthand name for an existing data type in programming.
+```
 
 </body>
 </html>
