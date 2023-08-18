@@ -14,7 +14,7 @@ TypeScript is JavaScript with syntax for Types
 ```
 # Why
 ``` bash
-1.Type Safety: TypeScript introduces static typing, allowing developers to define types for variables, function parameters, and return values.
+1.<b>Type Safety:</b> TypeScript introduces static typing, allowing developers to define types for variables, function parameters, and return values.
 2.Code Quality: With type annotations, code becomes more self-documenting and easier to understand. This can lead to better collaboration among team members and reduced maintenance costs over time.
 3.Early Error Detection: The TypeScript compiler can catch common mistakes and type mismatches during development, helping to prevent bugs and reduce the time spent debugging.
 4.Modern JavaScript Features: TypeScript supports the latest ECMAScript features while providing compatibility with older browsers. This allows developers to leverage modern language features without worrying about browser compatibility issues.
