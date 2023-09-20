@@ -8,7 +8,7 @@
 <img src="https://i.ytimg.com/vi/1jMJDbq7ZX4/maxresdefault.jpg" />
 
 
-# Getting Started React With Typescript
+# Getting Started React With Basic Typescript
 ``` bash
 TypeScript is JavaScript with syntax for Types
 ```
